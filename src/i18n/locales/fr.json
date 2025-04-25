@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Art contemporain explorant les frontières entre réalité et imagination",
+      "cta": "Explorer la Galerie"
+    },
+    "about": {
+      "title": "À Propos",
+      "content": "En tant qu'artiste, j'explore l'équilibre délicat entre forme et émotion, créant des œuvres qui invitent les spectateurs à vivre l'art de manière profondément personnelle. Mon travail est influencé à la fois par les techniques classiques et les expressions contemporaines.",
+      "exhibitions": "Expositions",
+      "education": "Formation"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Intéressé par une commande, l'achat d'une œuvre existante ou en savoir plus sur mon processus créatif ?",
+      "button": "Contactez-moi"
+    }
+  },
+  "footer": {
+    "description": "Art contemporain explorant les frontières entre réalité et imagination.",
+    "contact": "Contact",
+    "studio": "Visite d'atelier sur rendez-vous uniquement",
+    "rights": "Tous droits réservés."
+  }
+}

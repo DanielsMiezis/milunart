@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Sākums",
+    "gallery": "Galerija",
+    "contact": "Kontakti"
+  },
+  "home": {
+    "hero": {
+      "title": "Laikmetīgā māksla, kas pēta robežas starp realitāti un iztēli",
+      "cta": "Apskatīt Galeriju"
+    },
+    "about": {
+      "title": "Par Mani",
+      "content": "Kā māksliniece es pētu līdzsvaru starp formu un emocijām, veidojot darbus, kas aicina skatītājus piedzīvot mākslu dziļi personīgā veidā. Manu darbu ietekmē gan klasiskās tehnikas, gan mūsdienu izpausmes, rezultātā radot unikālu māksliniecisko balsi, kas uzrunā mūsdienu auditoriju, vienlaikus godājot tradicionālo meistarību.",
+      "exhibitions": "Izstādes",
+      "education": "Izglītība"
+    },
+    "contact": {
+      "title": "Sazināties",
+      "description": "Vai vēlaties pasūtīt mākslas darbu, iegādāties esošo darbu vai uzzināt vairāk par manu radošo procesu?",
+      "button": "Sazināties Tagad"
+    }
+  },
+  "footer": {
+    "description": "Laikmetīgā māksla, kas pēta robežas starp realitāti un iztēli.",
+    "contact": "Kontakti",
+    "studio": "Darbnīcas apmeklējums pēc iepriekšēja pieraksta",
+    "rights": "Visas tiesības aizsargātas."
+  }
+}

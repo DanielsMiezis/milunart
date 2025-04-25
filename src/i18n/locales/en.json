@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Contemporary fine art that explores the boundaries between reality and imagination",
+      "cta": "Explore Gallery"
+    },
+    "about": {
+      "title": "About Me",
+      "content": "As an artist, I explore the delicate balance between form and emotion, creating pieces that invite viewers to experience art in a deeply personal way. My work is influenced by both classical techniques and contemporary expressions, resulting in a unique artistic voice that speaks to the modern audience while honoring traditional craftsmanship.",
+      "exhibitions": "Selected Exhibitions",
+      "education": "Education"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Interested in commissioning a piece, purchasing existing artwork, or learning more about my creative process?",
+      "button": "Contact Now"
+    }
+  },
+  "footer": {
+    "description": "Contemporary fine art that explores the boundaries between reality and imagination.",
+    "contact": "Contact",
+    "studio": "Studio location available by appointment only",
+    "rights": "All rights reserved."
+  }
+}

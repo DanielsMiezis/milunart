@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "title": "Zeitgenössische Kunst, die die Grenzen zwischen Realität und Vorstellungskraft erforscht",
+      "cta": "Galerie erkunden"
+    },
+    "about": {
+      "title": "Über Mich",
+      "content": "Als Künstlerin erkunde ich das Gleichgewicht zwischen Form und Emotion und schaffe Werke, die die Betrachter einladen, Kunst auf eine zutiefst persönliche Weise zu erleben. Meine Arbeit ist sowohl von klassischen Techniken als auch von zeitgenössischen Ausdrucksformen beeinflusst.",
+      "exhibitions": "Ausstellungen",
+      "education": "Ausbildung"
+    },
+    "contact": {
+      "title": "Kontakt aufnehmen",
+      "description": "Interessiert an einer Auftragsarbeit, am Kauf bestehender Kunstwerke oder möchten Sie mehr über meinen kreativen Prozess erfahren?",
+      "button": "Jetzt kontaktieren"
+    }
+  },
+  "footer": {
+    "description": "Zeitgenössische Kunst, die die Grenzen zwischen Realität und Vorstellungskraft erforscht.",
+    "contact": "Kontakt",
+    "studio": "Atelierbesuch nur nach Vereinbarung",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Haaptsäit",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "title": "Zäitgenëssesch Konscht déi d'Grenze tëscht Realitéit an Imaginatioun erfuerscht",
+      "cta": "Galerie entdecken"
+    },
+    "about": {
+      "title": "Iwwer mech",
+      "content": "Als Kënschtlerin erfuersche ech d'Balance tëscht Form an Emotioun, a schafen Wierker déi d'Betrachter invitéieren d'Konscht op eng déif perséinlech Aart a Weis ze erliewen. Meng Aarbecht ass beaflosst vu klassesche Techniken a moderner Expressioun, wat zu enger eenzegaarteger kënschtlerescher Stëmm féiert.",
+      "exhibitions": "Ausstellungen",
+      "education": "Ausbildung"
+    },
+    "contact": {
+      "title": "Kontakt ophuelen",
+      "description": "Interesséiert un enger Kommissioun, um Kaf vun engem Konschtwierk oder wëllt Dir méi iwwer mäi kreative Prozess gewuer ginn?",
+      "button": "Elo kontaktéieren"
+    }
+  },
+  "footer": {
+    "description": "Zäitgenëssesch Konscht déi d'Grenze tëscht Realitéit an Imaginatioun erfuerscht.",
+    "contact": "Kontakt",
+    "studio": "Atelier Besuch nëmmen no Rendez-vous",
+    "rights": "All Rechter virbehalen."
+  }
+}
